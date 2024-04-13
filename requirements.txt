@@ -1,0 +1,3 @@
+inference-gpu
+pillow
+gradio
